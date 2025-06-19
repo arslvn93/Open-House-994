@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "2128 8 Avenue NE",
     "city": "Calgary",
@@ -110,4 +110,4 @@
     "repoName": "Open-House-994",
     "repoUrl": "https://github.com/arslvn93/Open-House-994"
   }
-}
+};
