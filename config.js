@@ -159,6 +159,8 @@ const config = {
   ],
   "deploymentInfo": {
     "repoName": "Open-House-994",
-    "repoUrl": "https://github.com/arslvn93/Open-House-994"
+    "repoUrl": "https://github.com/arslvn93/Open-House-994",
+    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/KxSrsX5ZH2ZttFjyt9hW/webhook-trigger/EWFVczQeMtLq5D4IVClg",
+    "tag": "Open House 2128 8 Avenue NE"
   }
 };
